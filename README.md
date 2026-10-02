@@ -14,7 +14,7 @@ In all, our aim is to investigate the extent to which compensation for different
 
 ### Analyses
 
-see the latest at: https://github.com/public-salaries/pub_sal_analyses
+see the latest at: https://github.com/soodoku/salaries-analyses
 
 ### Data 
 
@@ -34,7 +34,7 @@ see the latest at: https://github.com/public-salaries/pub_sal_analyses
 |              [Hawaii](hi/)               |       2016       |                            |                            |                            |                              |
 |               [Idaho](id/)               | 2008, 2013--2014, 2017--2018 |                            |                            |                            |                              |
 |             [Illinois](il/)              |                  |                            |                            |         2009--2012         |                              |
-| [Indiana](https://github.com/public-salaries/in_salaries) |                  |                            |                            |                            |                              |
+| [Indiana](https://github.com/soodoku/salaries-in) |                  |                            |                            |                            |                              |
 |               [Iowa](ia/)                |    2006--2016    |                            |                            |                            |                              |
 |              [Kansas](ks/)               |    2009--2016    |         2009--2016         | 2010--2016                 |         2008--2017         |                              |
 |             [Kentucky](ky/)              |                  |                            |                            |                            |                              |

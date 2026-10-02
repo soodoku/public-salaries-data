@@ -1,4 +1,4 @@
 ## Indiana Public Employee Salaries Data
 
-See [https://github.com/public-salaries/in_salaries](https://github.com/public-salaries/in_salaries)
+See [https://github.com/soodoku/salaries-in](https://github.com/soodoku/salaries-in)
 
