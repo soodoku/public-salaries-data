@@ -14,7 +14,7 @@ In all, our aim is to investigate the extent to which compensation for different
 
 ### Analyses
 
-see the latest at: https://github.com/soodoku/public-salaries-analyses
+see the latest at: https://github.com/soodoku/public-salaries-research
 
 ### Data 
 
